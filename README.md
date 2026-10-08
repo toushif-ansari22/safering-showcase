@@ -24,6 +24,12 @@ When the user presses SOS (on the app, or via the ring), SafeRing:
 | Help | Safety Tips, Helplines, nearby police stations on Maps |
 | General | Multilingual UI, onboarding with emergency contacts |
 
+## Screenshots
+
+| Home | SOS result | Live Location |
+|------|------------|---------------|
+| <img src="screenshots/home.png" width="220"> | <img src="screenshots/sos.png" width="220"> | <img src="screenshots/live-location.png" width="220"> |
+
 ## Tech stack
 
 - **App:** Flutter (Dart)
